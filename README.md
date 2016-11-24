@@ -11,17 +11,15 @@
 
 
 
+最后输入
+git push -u origin master  
+将你本地的仓库提交到你的github账号里，
+此时会要求你输入你的github的账号和密码。
 
-
-
-
-
-
-
-
-
-
-
+最后输入
+git push -u origin master  
+将你本地的仓库提交到你的github账号里，
+此时会要求你输入你的github的账号和密码。
 
 
 
